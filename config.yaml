@@ -1,8 +1,8 @@
 # 飞书API相关配置
 feishu:
-  app_id: "cli_a87ec4058b3b501c"            # 飞书应用ID
-  app_secret: "WKClT6kM2Fup1wj7NyJRJb8UgnsJB8V0"    # 飞书应用密钥
-  app_token: "ECGCb3YvEaEHJnswdL4cEpjNnLb"  # 飞书多维表格的App Token
+  app_id: "xxxx"            # 飞书应用ID
+  app_secret: "xxxx"    # 飞书应用密钥
+  app_token: "xxx"  # 飞书多维表格的App Token
 
 # 程序运行参数
 settings:
