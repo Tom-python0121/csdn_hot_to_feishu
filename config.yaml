@@ -1,0 +1,10 @@
+# 飞书API相关配置
+feishu:
+  app_id: "cli_a87ec4058b3b501c"            # 飞书应用ID
+  app_secret: "WKClT6kM2Fup1wj7NyJRJb8UgnsJB8V0"    # 飞书应用密钥
+  app_token: "ECGCb3YvEaEHJnswdL4cEpjNnLb"  # 飞书多维表格的App Token
+
+# 程序运行参数
+settings:
+  sleep_seconds: 1                 # 每上传一次数据后暂停的秒数（防止触发接口限流）
+  clear_old_data: false            # 是否清空旧数据（未来可扩展）
